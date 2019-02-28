@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf8"?>
+<config>
+    <demo>true</demo>
+    <log>nvr.log</log>
+    <work>/opt/nvr</work>
+    <recycle>15</recycle>
+    <child>child.log</child>
+    <thrift port="9090" thread="32" send="15000" recv="15000"/>
+    <manager>192.168.189.152:8080</manager>
+</config>
