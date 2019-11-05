@@ -15,3 +15,5 @@
     webchat: 99766553
     website: www.qiyicc.com
     e-mail: cwf12345@sina.com || qiyicc@sina.com
+    
+    ![Image text](https://github.com/superconvert/qiyicc.nvr/blob/master/nvr_feature.png)
